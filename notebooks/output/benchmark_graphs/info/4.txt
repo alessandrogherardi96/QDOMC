@@ -1,0 +1,7 @@
+Struttura: cricca da 5 --> cricca da 10 --> cricca da 15 --> cricca da 20 --> chiusura sulla prima cricca da 5
+Pesi impostati in modo che la funzione della cricca da 5 sia maggiore di tutte le altre.
+1° cricca:[0, 1, 2, 3, 4] con peso:0.32219578919375275
+2° cricca:[5, 6, 7, 8, 9, 10, 11, 12, 13, 14] con peso:0.23881962893237269
+3° cricca:[15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29] con peso:0.29562009095289904
+4° cricca:[30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49] con peso:0.30357823570179404
+Archi aggiuntivi: (4,5), (14,15), (29,30), (49,0)

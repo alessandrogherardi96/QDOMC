@@ -1,0 +1,5 @@
+3 cricche da 5:
+1° cricca:[0, 1, 2, 3, 4] con funzione:0.224766747237597
+2° cricca:[5, 6, 7, 8, 9] con funzione:0.1968479419380087
+3° cricca:[10, 11, 12, 13, 14] con funzione:0.24005847049113327
+Archi aggiuntivi: (4,5), (9,10)

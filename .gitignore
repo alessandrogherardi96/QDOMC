@@ -1,0 +1,7 @@
+# Python project files
+.ipynb_checkpoints
+__pycache__
+.pytest_cache/
+output/*
+!.gitkeep
+.Trash-*

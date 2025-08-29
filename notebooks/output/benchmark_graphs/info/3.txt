@@ -1,0 +1,6 @@
+Struttura: cricca da 10 --> cricca da 8 --> cricca da 5
+Pesi impostati in modo che la funzione della cricca da 5 sia maggiore di quella da 8 e che quella da 8 sia maggiore di quella da 10.
+1° cricca:[0, 1, 2, 3, 4, 5, 6, 7, 8, 9] con peso:0.2830962917336982
+2° cricca:[10, 11, 12, 13, 14, 15, 16, 17] con peso:0.30232021630068107
+3° cricca:[18, 19, 20, 21, 22] con peso:0.3150172009739146
+Archi aggiuntivi: (9,10), (17,18)
