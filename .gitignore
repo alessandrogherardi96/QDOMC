@@ -1,6 +1,10 @@
+# Pycharm
+.idea/
+
 # Python project files
 .ipynb_checkpoints
 __pycache__
 .pytest_cache/
 !.gitkeep
 .Trash-*
+
