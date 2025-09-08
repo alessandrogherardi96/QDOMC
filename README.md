@@ -4,4 +4,6 @@ This repository GitHub contains the code developed for the work presented in the
 #TODO cambia link e metti ArXiv
 
 ## Acknowledgments
-#TODO metti gli acknowledgments del paper
+We acknowledge the financial support from ICSC -- "National Research Centre in High
+Performance Computing, Big Data and Quantum Computing'', project QDOMC (Quantum
+Algorithm for the Detection of the Optimal Maximal Clique), CUP: H43C22000520001, funded by the European Union -- NextGenerationEU. We also acknowledge the computational resources provided by the CINECA-ISCRA initiative, project HP10C5HL80.
